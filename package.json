@@ -2,7 +2,7 @@
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://earnl.github.io/Loading-spinner",
+ 
   "dependencies": {
     "@reduxjs/toolkit": "^2.7.0",
     "@testing-library/dom": "^10.4.0",
