@@ -4,7 +4,7 @@ import { fetchUsers, deleteUser } from "../features/users/usersSlice";
 
 const FetchUsers = () => {
     const dispatch = useDispatch()
-    const deleteDispatch = useDispatch()
+    // const deleteDispatch = useDispatch()
     const {data: users, status } = useSelector((state) => state.users)
 
     useEffect(()=>{
